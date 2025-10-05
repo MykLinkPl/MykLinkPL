@@ -1,16 +1,25 @@
-## Hi there 👋
+# Przemysław Myk — IFS ERP Expert | Business Analyst | Integrations Developer
 
-<!--
-**MykLinkPl/MykLinkPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+For over 10 years I’ve been bridging IT and business worlds, specializing in **IFS ERP**, business process analysis and data integrations.
+I design and implement automations and ERP integrations using **SQL, PL/SQL, T-SQL, C# and PHP**.
 
-Here are some ideas to get you started:
+Based in **Gdynia, Poland** — helping organizations optimize processes and data flow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Areas of Expertise
+- IFS Applications (Apps 8/9)
+- ERP Implementation & Administration
+- SQL / PL/SQL / T-SQL Development
+- Business Process Analysis & Automation
+- System Integrations (API, PHP, C#)
+- Digital Transformation Projects
+
+## 🌐 Portfolio & Contact
+🔗 **Website:** [myklink.pl](https://myklink.pl)  
+🔗 **LinkedIn:** [linkedin.com/in/przemyslaw-myk](https://www.linkedin.com/in/przemyslaw-myk/)  
+🔗 **GitHub Projects:** [github.com/MykLinkPl](https://github.com/MykLinkPl)
+
+---
+
+### 🧭 Keywords
+IFS ERP expert • ERP business analyst • IFS integrations • SQL developer • IFS consultant Poland • IFS Apps 8/9
